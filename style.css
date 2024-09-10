@@ -1,0 +1,22 @@
+.Atish{
+    background-color: rgb(223, 110, 110);
+    margin-right: 1070px;
+    padding-left: 50px;
+    border: solid black;
+    border-radius: 20px;
+}
+.circle{
+    background-color: red;
+    border: solid black 5px;
+    border-radius: 200px;
+    height: 200px;
+    width: 200px;
+}
+#Para{
+    font-size:x-large;
+    background-color: blue;
+    width: 600px;
+   padding-left: 20px;
+   padding-top: 50px;
+    height: 200px;
+}
